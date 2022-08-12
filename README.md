@@ -14,3 +14,5 @@ yarn && yarn start
 In a different terminal window for each app.
 
 The visit the [home page](http://localhost:3000/).
+
+Explanation Video: https://www.youtube.com/watch?v=lKKsjpH09dU&ab_channel=freeCodeCamp.org
